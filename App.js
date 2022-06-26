@@ -26,6 +26,9 @@ const App = () => {
     InterSemiBold: require("./assets/fonts/Inter-SemiBold.ttf"),
   });
 
+  if (!loaded) {
+    return <Text>Loading...</Text>;
+  }
 
   return (
     <NavigationContainer theme={theme}>
