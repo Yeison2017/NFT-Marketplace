@@ -4,8 +4,8 @@ import { useFonts } from 'expo-font'
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
 
-import Home from './screens/Home';
-import Details from './screens/Details';
+import Home from './screens/home/Home';
+import Details from './screens/details/Details';
 
 const Stack = createStackNavigator();
 
