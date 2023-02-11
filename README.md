@@ -12,7 +12,8 @@ Este proyecto es una aplicación móvil creada con React Native, JavaScript y Ex
 
 Aquí se muestran las capturas de pantalla de la aplicación en dispositivos móviles:
 
-![mobile1](./src/assets/screenshots/Mobile1.jpg)
+![mobile1](./assets/screenshots/Mobile1.jpg)
+![mobile2](./assets/screenshots/Mobile2.jpg)
 
 ## Créditos
 
