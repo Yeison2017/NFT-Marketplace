@@ -20,4 +20,5 @@ Este proyecto fue creado a partir de un video tutorial de YouTube, "JavaScript M
 
 ## Link
 
-Aquí se encuentra el enlace para abrir la aplicación con un QR de Expo: [QR de la app]( https://expo.dev/@yeisonhernandez/NTF-Marketplace?serviceType=classic&distribution=expo-go)
+Puede escanear el siguiente código QR con la aplicación de Expo Go para interacturar con la aplicación.
+![mobile1](./src/assets/screenshots/QR.jpg)
