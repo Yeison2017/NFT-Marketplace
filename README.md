@@ -21,5 +21,5 @@ Este proyecto fue creado a partir de un video tutorial de YouTube, "JavaScript M
 
 ## Link
 
-Puede escanear el siguiente código QR con la aplicación de Expo Go para interacturar con la aplicación.
+Puede escanear el siguiente código QR con la aplicación de Expo Go para interactuar con la aplicación.
 ![mobile1](./src/assets/screenshots/QR.jpg)
